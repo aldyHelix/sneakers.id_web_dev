@@ -2,11 +2,27 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="viewport"
         content="width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, user-scalable=0" />
-    <meta name="theme-color" content="" />
+    <meta name="theme-color" content="black-white" />
+    <!-- Primary Meta Tags -->
+    <title>SNEAKERS.ID — WE AIN'T TALKIN' BOUT FAKE</title>
+    <meta name="title" content="SNEAKERS.ID — WE AIN'T TALKIN' BOUT FAKE">
+    <meta name="keyword" content="nike sneakers, new balance sneakers, shoes, sport shoes, sepatu sneakers, sneaker, sepatu sneakers wanita, sepatu sneakers pria, adidas, sepatu adidas, sepatu air jordan, sepatu nike, nike, air jordan, original, sepatu original, sneakers original, sneakers asli, sepatu sneakers original, sepatu original sneakers, sneakers.id, jakarta sneakers day, sepatu sneakers jakarta" >
+    <meta name="description" content="US PREORDER, READY STOCK, DAN CONSIGNMENT. HANYA MENJUAL BARANG ORIGINAL DAN AUTHENTIC. TIDAK MENJUAL BARANG PALSU.">
 
-    <title>
-        SNEAKERS.ID
-    </title>
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sneakers.id/">
+    <meta property="og:title" content="SNEAKERS.ID — WE AIN'T TALKIN' BOUT FAKE">
+    <meta property="og:description" content="US PREORDER, READY STOCK, DAN CONSIGNMENT. HANYA MENJUAL BARANG ORIGINAL DAN AUTHENTIC. TIDAK MENJUAL BARANG PALSU.">
+    <meta property="og:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://sneakers.id/">
+    <meta property="twitter:title" content="SNEAKERS.ID — WE AIN'T TALKIN' BOUT FAKE">
+    <meta property="twitter:description" content="US PREORDER, READY STOCK, DAN CONSIGNMENT. HANYA MENJUAL BARANG ORIGINAL DAN AUTHENTIC. TIDAK MENJUAL BARANG PALSU.">
+    <meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
+
     <link rel="stylesheet"
         href="//cdn.shopify.com/s/files/1/2854/1776/t/46/assets/theme.scss.css?v=7344590805236375534" />
     <link rel="stylesheet"
